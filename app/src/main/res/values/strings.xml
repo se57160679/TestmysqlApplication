@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestmysqlApplication</string>
+    <string name="main_text">Todo List</string>
+    <string name="add_new">add_new</string>
+    <string name="hint">input name</string>
+    <string name="button">Add new</string>
+
+
+</resources>
